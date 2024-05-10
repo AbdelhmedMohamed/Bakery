@@ -1,0 +1,424 @@
+.back-ground{
+    background-image: url(images/drew-coffman-1872.jpg);
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover ;
+    height: 100vh ;
+    
+    
+
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.img-bakery{
+    width: 250px;
+    padding: 8;
+    margin-left: 50px; 
+
+}
+.ankes{
+
+display: inline-block;
+font-size: 18px;
+color: whitesmoke ;
+margin: 20px;
+
+}
+.anav{
+    float: right;
+    margin-right: 20px;
+}
+.clr{
+    clear: both;
+}
+
+
+
+.pc{
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 80px;
+    font-size: 60px;  
+}
+
+.fpaker{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 100px;
+    margin-top:10 ;   
+}
+
+.pcc{
+
+    text-align: center;
+    color: antiquewhite;
+    font-size: 25px;
+    width: 400px; 
+    margin: auto ;
+    padding-top: 15;
+    
+
+}
+.aaaa{
+    text-align: center;
+    margin-top:25px ;
+}
+
+.ancor{
+    
+
+    background-color: #8E7754;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5%;
+    font-size: 25px;    
+}
+
+.ancor:hover{
+    background-color: #353330;
+    color: #888;
+}
+
+
+.ancor-too{   
+border:solid 1px ;
+color: aliceblue;
+padding: 10px;
+border-radius: 8%;
+font-size: 25px;
+
+}
+.ancor-too:hover{
+    background-color: #8E7754;
+    color: aliceblue;  
+}
+
+
+
+
+.tow{
+
+padding: 80px;
+margin: bottom 30px; 
+
+}
+.img-tow{
+width: 50%;
+float: left;
+
+}
+img{
+    width:100% ;
+}
+.ptow{
+    
+    width: 50%;
+float: right;
+
+}
+.htow{
+    font-size: 60px;
+    font-weight: 300;
+    padding-left: 20;
+    padding-top: 20;
+    
+
+}
+.partow{
+    width: 500px;
+    font-size: 25px;
+    font-weight: 200;
+    padding-left: 20;
+    padding-top: 20;
+    color: #888;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+
+.ultow{
+    float: left ;
+
+font-size: 8;
+font-weight: 100;
+font-family: 'Alegreya Sans', sans-serif;
+padding: 10 ;
+
+margin:10 10 0 15 ;
+
+}
+.ull{
+    list-style: none;
+    margin: 5;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+.ull img{
+    width: 25px;
+    border-width: 0.5;
+    border-style :solid ;
+    border-radius: 50%;
+    border-color: bisque;
+    margin-right: 10px;
+    
+
+}
+
+.eee{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+margin: bottom 30px; 
+
+}
+
+.for{
+    width: 50%;
+    float: left;
+    margin: 10;
+    
+}
+.h-for{
+    font-size: 60px;
+    margin-bottom: 15;
+    margin-left: 15;
+    margin-top: 40;
+    font-weight: 300;
+}
+.p-for{
+    margin-left: 30px; 
+    color: aqua;
+    font-size: 25px;
+    margin-bottom: 10;
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #888;
+
+} 
+
+
+.img-for{
+    width: 40%;
+    float: left;
+    margin: 20 10 40  10;
+}
+
+
+.three{
+    text-align: center;
+    margin-bottom: 20;
+    margin-top: 20;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+margin: bottom 30px; 
+
+    
+}
+.hthree{
+    font-size: 60;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 300;
+
+}
+.pthree{
+    font-size: 25;
+    margin-top: 8;
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #888;
+}
+
+.bag{
+    margin-left: 100px;
+    
+}
+.f{
+    width: 33%;
+    
+    margin-bottom: 40;
+    float: left;
+    
+}
+.img-f{
+    background-color: black;
+    width: 400px;
+    margin-bottom: 10;
+
+}
+.hf{
+    font-size: 25;
+    margin-left: 18;
+    
+    font-weight: 100;
+}
+.pf{
+    width: 300;
+    font-size: 20;
+    margin-top: 8;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    color: #888;
+}
+
+
+.qq{
+    margin-top: 50px;
+}
+
+.beg-tow{
+   
+    float: left;
+    width: 50%; 
+}
+.gwon{
+    width: 50%;
+    margin-left: 80px;
+    
+}
+.hfff{
+    font-size: 40px;
+     font-weight: 100;
+
+}
+.pfff{
+    width: 300px;
+    font-size: 20px;
+    margin-top: 8;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 100;
+    padding-bottom: 8;
+    color: #888;
+}
+
+
+.ulll{
+    list-style: none;
+    margin:  5 0 5 0;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    
+    
+}
+.ulll img{
+    width: 20px;
+    border-width: 0.5;
+    border-style :solid ;
+    border-radius: 50%;
+    border-color: bisque;
+    background-color: #8E7754;
+    
+
+}
+.map{
+    
+    float: left;
+    
+    width: 50%;
+}
+.qq{
+    margin-top: 40;
+    margin-bottom: 30;
+}
+
+
+
+
+
+
+
+.www{
+    padding-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: #403D38
+    
+}
+
+.for-div{
+    width: 25%;
+    float: left;
+    font-size: 15px;
+    
+}
+.for-div p{
+
+    color: #888;
+    margin-bottom: 10;
+    font-size: 15px;
+    padding-right: 5;
+}
+
+.for-div h4{
+    padding-bottom: 10;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 100;
+    color: aliceblue;
+    font-size: 30px;
+}
+.for-div li{
+    list-style: none;
+    color: #888;
+    width: 250px;
+    height: 12;
+
+}
+
+.xxx{
+    margin: 7;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 100;
+}
+
+
+.xxx img{
+    width: 15px;
+    border-width: 0.5;
+    border-style :solid ;
+    border-radius: 50%;
+}
+
+.ooo{
+text-align: center;
+
+background-color: #353330
+
+}
+
+.OOO p{
+    font-size: 15px;
+    margin-bottom: 15; 
+    color: #888;
+}
+.ooo img{
+width: 300px; 
+margin: 30;
+margin-bottom: 15;   
+
+}
+
+
+.zzz{
+    padding-bottom: 16;
+    
+}
+.zzz img{
+
+    width: 20px;
+    border-width: 0.5;
+    border-style :solid ;
+    border-radius: 50%;
+    border-color: #888;
+    margin: 0;
+    background-color:#403D38 ;
+    
+}
+.eee{
+    background-color: #f8f8f8;
+}
